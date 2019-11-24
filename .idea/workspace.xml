@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8aee6c9-5300-4590-9688-1b9f605d5b98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/while_loop_for_car_ingenee.py" beforeDir="false" afterPath="$PROJECT_DIR$/while_loop_for_car_ingenee.py" afterDir="false" />
     </list>
